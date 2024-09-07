@@ -12,6 +12,3 @@ st.markdown(
 Welcome to my GPT Portfolio!
 """
 )
-
-# if st.button("Github"):
-  

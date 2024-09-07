@@ -15,6 +15,8 @@ st.set_page_config(
 )
 
 with st.sidebar:
+    st.markdown("<a href='https://github.com/sqhtjs0104/GPT-ex/blob/main/pages/01_DocumentGPT.py'>Github</a>", unsafe_allow_html=True)
+
     user_api_key = st.text_input(
         label="Use your OpenAI API key"
     )
